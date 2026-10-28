@@ -1,2 +1,3 @@
-# .github
-Mines: your coding agents, your subscriptions, your computers.
+# Mines organization profile
+
+The public organization overview lives in [profile/README.md](profile/README.md).
